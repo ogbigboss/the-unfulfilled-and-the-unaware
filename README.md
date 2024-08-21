@@ -22,7 +22,7 @@ Adria shook her head and gave Ryleigh a cross look, then sat down to think. Ryle
 
 "OK, so let's not tell them the truth. Everyone in Hollywood wants to get these two together, why don't we just do that?"
 
-Adria knew Sara was loyal, and never had to keep her in check her like she always had to with Ryleigh. But Sara was... stupid. It made her useful to Adria, of course, but it was always a thing to deal with.
+Adria knew Sara was loyal, and never had to keep her in check her like she always had to with Ryleigh. But Sara was... stupid. It made her useful to Adria, of course, but it was always a thing to deal with. It was amazing that Ryleigh was as stupid as she was given she was a never married senior citizen, but that just made her desperate to be included. Stupid and desperate meant that Ryleigh would do almost anything for Adria's attention.
 
 "Sara. We've been working the girl for a year now. Do you really think she'll be... ok with hearing about the false accusation?"
 
