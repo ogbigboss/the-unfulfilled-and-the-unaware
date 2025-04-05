@@ -58,12 +58,18 @@ Adria continued: "So if he's gonna deprive of us our dreams, all while we're set
 
 Sara and Ryleigh looked excited, as if they were infected with the vigor of Adria's purpose. Sara asked the obvious next question: how?
 
-Adria smiled, wickedly, and spoke: "Just a little thing I learned from the CIA - Sleep. Deprivation. We're gonna drive him crazy."
+Adria smiled, wickedly, and spoke: "Just a little thing I learned from the CIA - Sleep. Deprivation. We're gonna drive him crazy. Or make him look like he has Borderline Personality Disorder by making him feel rejected - but hopefully we get him to go psychotic, that's the real goal anyway."
 
 Ryleigh looked confused - "Uhm, we're gonna tie him up by his hands and yank the cuffs everytime before he passes out?"
 
 Adria laughed, then paused - _maybe... no, no that'd make us look bad. Plan A it is_. "Remember? The speakers that were setup in his vents? How easy it is to control his dreams? I say, if he's depriving us of our dreams, well, we'll give him something to dream about. He'll talk, say things we can record and share with Hollywood, and while they'll be thinking we're setting the romance up, we'll get him to say things that will negate that. Let's start by making sure our poetically inclined Disney fan feels especially... appreciated by the gossip we cause."
 
-_If the ladies would just stop, it'd probably help them maintain or keep their celebrity relationships at least, if for nothing more than gratitude that they let this thing end finally._
+The Man began to write in his laptop which was being constantly surveilled by the ladies under the auspicices of reality TV.
 
-The ladies looked on, uncaring - even if he could tell them this directly, they'd care less - they hate being told what to do, even if The Man was basically predicting what they'd do by writing it, and thus telling them what to do at any rate. _Men! Will they ever stop?_
+_If the people abducting him would just stop and let this go, it'd probably help them maintain or keep their celebrity relationships at least, if for nothing more than gratitude that they let this thing end finally._
+
+The ladies looked on, uncaring - even if he could tell them this directly, they'd care less - they hate being told what to do, even if The Man was basically predicting what they'd do by writing it, and thus telling them what to do at any rate.
+
+"Men! Will they ever stop? Am I right?" Adria said, and the ladies laughed at the positional joke.
+
+Adria, whom was briefed on the full situation, knew she couldn't stop - or she'd lose her status within _the Inner Party_.
