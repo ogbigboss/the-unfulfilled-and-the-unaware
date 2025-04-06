@@ -14,13 +14,28 @@
 >
 > ― Jaques Derrida, _Cogito and the History of Madness_
 
-> "Although madness in men is not the same as that in women: men use it against others; women turn it in on themselves."
+> "I don’t like to look out of the windows even—there are so many of those creeping women, and they creep so fast. I wonder if they all come out of that wall-paper as I did?"
 >
-> ― Victoria Mas, _The Mad Women's Ball_
+> ― Charlotte Perkins-Gilman, _The Yellow Wallpaper_ 
 
 > "This last point is a request to the English-speaking reader. In France, certain half-witted 'commentators' persist in labelling me a 'structuralist'. I have been unable to get it into their tiny minds that I have used none of the methods, concepts, or key terms that characterize structural analysis. I should be grateful if a more serious public would free me from a connection that certainly does me honour, but that I have not deserved."
 >
 > ― Michel Foucault, _The Order of Things: An Archaeology of the Human Sciences_
+
+> Much Madness is divinest Sense -<br />
+> To a discerning Eye -<br />
+> Much Sense - the starkest Madness -<br />
+> ’Tis the Majority<br />
+> In this, as all, prevail -<br />
+> Assent - and you are sane -<br />
+> Demur - you’re straightway dangerous -<br />
+> And handled with a Chain -<br />
+>
+> ― Emily Dickinson, _Much Madness is divinest Sense_
+
+> "Although madness in men is not the same as that in women: men use it against others; women turn it in on themselves."
+>
+> ― Victoria Mas, _The Mad Women's Ball_ 
 
 > "We can change our lives by changing our attitudes of mind."
 >
@@ -29,21 +44,3 @@
 > "Do you want to change your mind? You can always change your mind."
 >
 > ― Guster, _Manifest Destiny_
-
-> Much Madness is divinest Sense -
-> 
-> To a discerning Eye -
-> 
-> Much Sense - the starkest Madness -
-> 
-> ’Tis the Majority
-> 
-> In this, as all, prevail -
-> 
-> Assent - and you are sane -
-> 
-> Demur - you’re straightway dangerous -
-> 
-> And handled with a Chain -
->
-> ― Emily Dickinson, _Much Madness is divinest Sense_
