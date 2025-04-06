@@ -22,6 +22,22 @@
 >
 > ― Michel Foucault, _The Order of Things: An Archaeology of the Human Sciences_
 
+> "You are not responsible for anyone's distorted perception of you"
+>
+> ― Maya Angelou
+
+> "Although madness in men is not the same as that in women: men use it against others; women turn it in on themselves."
+>
+> ― Victoria Mas, _The Mad Women's Ball_ 
+
+> "...the very commonness of common sense makes it unlikely to have any appeal to the anointed. How can they be wiser and nobler than everyone else while agreeing with everyone else?”
+> 
+> ― Thomas Sowell, _The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy_
+
+> "A mind all logic is like a knife all blade. It makes the hand bleed that uses it."
+>
+>  – Rabindranath Tagore
+
 > Much Madness is divinest Sense -<br />
 > To a discerning Eye -<br />
 > Much Sense - the starkest Madness -<br />
@@ -33,9 +49,9 @@
 >
 > ― Emily Dickinson, _Much Madness is divinest Sense_
 
-> "Although madness in men is not the same as that in women: men use it against others; women turn it in on themselves."
+> "I am an invisible man. No I am not a spook like those who haunted Edgar Allen Poe: Nor am I one of your Hollywood movie ectoplasms. I am a man of substance, of flesh and bone, fiber and liquids, and I might even be said to possess a mind. I am invisible, simply because people refuse to see me.”
 >
-> ― Victoria Mas, _The Mad Women's Ball_ 
+> ― Ralph Ellison, _Invisible Man_
 
 > "We can change our lives by changing our attitudes of mind."
 >
