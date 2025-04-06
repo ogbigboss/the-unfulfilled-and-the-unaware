@@ -24,8 +24,19 @@
 
 > "We can change our lives by changing our attitudes of mind."
 >
-> ― Aaron T. Beck
+> ― Dr. Aaron T. Beck
 
 > "Do you want to change your mind? You can always change your mind."
 >
 > ― Guster, _Manifest Destiny_
+
+> Much Madness is divinest Sense -
+> To a discerning Eye -
+> Much Sense - the starkest Madness -
+> ’Tis the Majority
+> In this, as all, prevail -
+> Assent - and you are sane -
+> Demur - you’re straightway dangerous -
+> And handled with a Chain -.
+>
+> ― Emily Dickinson, _Much Madness is divinest Sense_
