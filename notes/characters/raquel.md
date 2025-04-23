@@ -4,7 +4,7 @@ Raquel O'Brien starts the novel in her late 40s, fearing her 50s, which she ente
 
 ### Raquel's Narcissistic Jealousy cycles w/ The Man
 
-She starts the novel wanting to frame the man as per her first reality TV show, an entry into her dream career of being a creative type. However, this backfires, inflaming her feelings of inadequacy (the root of her perfectionism), as she wanted to frame the man for being a "hacker" to cover up for the time in 2017 she proclaimed a foreign national threat via hacking that never surfaced in reality.
+She starts the novel wanting to frame the man as per her first reality TV show, an entry into her dream career of being a creative type. However, this backfires, inflaming her feelings of inadequacy (the root of her perfectionism), as she wanted to frame the man for being a "hacker" to cover up for the time in 2017 she proclaimed a foreign national threat via hacking that never surfaced in reality. Many of her colleagues thought it was weird she was making some dopey Reality TV show after being `the Inner Party`'s darling, but Raquel was hoping to frame the man then afterwards reveal she was working off tips from within `the Inner Party` all along, but it never got that far.
 
 Her jealousy of the man begins in late 2022, as he, however unknowingly to him, ingratiates himself with his knowledge of references, particularly _The Man Who Was Thursday_, and it's influence over art in various ways amongst a crowd to which Raquel aspires to make her peers - Hollywood writers, directors, and actors. The man's understanding of the novel infuriates Raquel on top of making her jealous of how it woos a crowd she wishes to woo, the fury coming from Raquel's being in a situation where she needs The Man to either be akin to the novel's surrealistic "dynamiters," but in reality and not surreality, freeing her from being amongst the delusional dreamers in the novel - or at least, akin to the novel's main character, Thursday, who is a guy who _definitely_ wouldn't get the novel was about him overreacting to being rejected by a girl in the beginning.
 
@@ -38,6 +38,30 @@ All the narcissistic characters should have surreal breaks where what would be t
 
 TODO: With Art this is King Auerbach, with Dr. Burjest this is her seeing Anna Torv as her own hallucinatory reflection, but wiht Raquel? Maybe something with a childhood vision of her as a comic book character who would never be so evil? Kind of like a _Unbreakable_ thing maybe? idk
 
+In response to the above, how about a "Rouge" character, similar to the Xmen character Rogue? Rogue, or "Rouge", cannot physically touch another human without killing them. A young Raquel didn't know why but felt a reflection in this character as to explain why she felt so awful pretending to be straight in her teen years, lying about liking boys around her girl friends. Idk, maybe. I just like the idea of Raquel's conscious being a southern lady that says "Shug" a lot, and how Raquel denies a compassionate inner voice in favor of justifying her negative narcisstic qualities. Rouge should probably only come out during Raquel's depressive moments, having no voice when Raquel is manic. Maybe Raquel, who is an avid comic reader to this day, can hallucinate by seeing Rouge talk to her directly in a comic book when she's trying to escape depression?
+
+### Raquel's attachment to her youth
+
+Raquel lived through her 20s up to her 40s feeling as though she had conquered all her childhood issues via coming out as gay, given the timing (early 90s) this felt all encompassing for her to ignore the toxic perfectionism developed in her teen years to mask the feelings of being "different", which was easy to ignore as toxic in adulthood admist her academic and professional achievements, which masked her lack of personal emotional growth.
+
+Like a Lily Barth from _House of Mirth_, Raquel is plagued by feelings that she waited too long to make decisions that were true to her; unlike a Lily Barth, she chose a societally approved form of success, and thus her penalty is not poverty, but the burden of being ultra successful in a way that betrayed her childhood ambitions / dreams.
+
+Because Raquel hasn't defeated her toxic perfectionism, instead letting it develop into Narcissism alongside a pre existing condition of bi polar she allows to remain untreated, Raquel over identifies with her teen years to this day as a woman in her 50s, naming her production company _Cereal Toy Youth Brigade_, in recognition of the surprise! toys that were in cereal boxes. Note: ignore obvious cereal / serial jokes here to allow the reader to have some compassion for Raquel, whom unlike a Lily Barth (depending on how you read _HOM_), Raquel will constantly challenge and possibly defeat by the novel's end.
+
+Raquel's inability to let go of her childhood issues she developed (toxic perfectionism) to mask her initial feelings of inadequacy before accepting she was gay explains why she is also having so much difficulty facing down her own narcissistic tendencies [^3].
+
+All the narcissistic characters have, predictably, some issue stemming from youth trauma that they haven't fully let go of, and it's why they keep trying to use The Man's past against him, without accepting it won't work due to their lack of empathy which would be needed to realize such a thing.
+
+### Raquel's lack of empathy as a core skill and her failure cycle in dealing wiht the Man
+
+There should be a steady drum beat reminding the reader that the narcissist characters all lack a core facility of empathy, and this is why they cannot "defeat" The Man. They want to gaslight him into some form of insanity, but cannot, as that would require getting into his head, which would require empathy, which they don't have. And if they did - they wouldn't do this in the first place.
+
+Raquel avoids this reality by over intellectualizing her pursuit of "othering" The Man, and her continued failures despite her intellectual heft keep a recurring shame cycle going, whcih alongside the jealousy, keep Raquel and the other narcissistic representatives of `the Inner Party` locked in a forever war against The Man.
+
+### How Raquel reacts to being called out as a narcissist later in the book
+
+Narcissists rely on distractions, and Raquel regularly changes the subject in growingly awkward ways as a way to get others to look the other way at her faults.[^4]
+
 <br />
 <br />
 <br />
@@ -48,3 +72,5 @@ TODO: With Art this is King Auerbach, with Dr. Burjest this is her seeing Anna T
 
 [^1]: "Deep down, most pathological narcissists feel like the 'ugly duckling,' even if they painfully don’t want to admit it." - https://www.psychologytoday.com/us/blog/communication-success/201807/5-ways-narcissists-compensate-for-their-inferiority
 [^2]: https://www.psychologytoday.com/us/blog/beyond-cultural-competence/202304/how-narcissists-retaliate-via-procedural-and-legal-abuse
+[^3]: "Early adulthood is often — but not always — when narcissism presents most strongly." - https://www.charliehealth.com/post/does-narcissism-get-worse-with-age
+[^4]: https://psychcentral.com/relationships/narcissist-arguing#deflection:~:text=5.%20Deflecting%20away%20from%20the%20argument, https://www.meadowdevor.com/blog/2024/7/3/5-mind-games-narcissists-play#:~:text=Mind%20Game%203%3A%20The%20Shell%20Game
