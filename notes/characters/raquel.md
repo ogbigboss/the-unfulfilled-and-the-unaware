@@ -22,6 +22,18 @@ These jealousy cycles inspire Raquel's descent to losing any empathy for those s
 
 At some point she's gonna have to give a speech about how it's good, actually, that `the Inner Party` is more focused on power than political progress, even at the expense of both. This speech is meant to be given possibly to some character Raquel has led to believe her efforts are for the best of `the Inner Party`'s political goals, which said character calls out is clearly not the case after the massive election loss. It's intended to mirror the O'Brien speech in 1984, but in the over emphasized ironic detachment Generation X is known for, and will likely reference it directly as positive, which will be delivered with ironic humour by Raquel to cover up from the obvious fascism it implies.
 
+### Raquel's central conflict with truth and it's relationship with _The Man Who Was Thursday_
+
+With regards to _TMWWT_, Raquel totally "gets it" - the man in the book, Thursday, is having a delusional dream about persecuting political dissidents in an overreaction to perceived inadequacy via a romantic rejection involving political differences' ineffectiveness as a wooing tool; this is not lost on Raquel when she reads it at some point in the narrative. Raquel discovers via The Man that Hollywood types, whom she aspires to be amongst, have been using it as a secret litmus test of sorts both in their own industry (did you get it?) and within their art itself, mostly with movies that use it to shape the narrative (_Ghost World_, _The Man Who Wasn't There_, _Vanilla Sky_) as well as movies that tip a hat to it here and there in scenes (_Charlie's Angels_, _In Bruges_, _Super Troopers_).
+
+Directly, Raquel's conflict is this: Can she "get it", and be awarded socially as such around those where it would be useful to (Hollywood director/writer/actor types) without sacrificing her position amongst `the Inner Party` whose actions against The Man reveal that, even if they can intellectually understand _TMWWT_, they will never truly "get it" without Orwellian "double think"'ing it wrt their persecution of The Man?
+
+Raquel's natural self gets the book, but because she has chosen a lifestyle to accommodate to `the Inner Party`, and the situation they're in with The Man greatly reflects the "dream" portion of _TMWWT_, the novel itself reflects on Raquel's main conflict: to be herself, an artist aware of the truth, or to be a protector of `the Inner Party`'s delusions, where she has found success but the truth is situational - at best.
+
+Raquel, a perfectionist, keeps getting trapped in inadaquacy cycles due to _TMWWT_ - she is either failing `the Inner Party` in not being able to falsify The Man one way or the other, or she is failing her own true ambitions by not being able to explain to her Hollywood associates that she gets _TMWWT_ while explaining why The Man still deserves to be treated like shit, particularly after his innocent is established this being another push / pull furthering Raquel into the rabbit hole of narcisstic personality disorder.
+
+Has she gone too far into supporting real life Thursdays in `the Inner Party` to be amongst those that honor _TMWWT_ with their art?
+
 ### Raquel's other issues with the man
 
 She hates how stereotypically "broish" he is, yet appreciated for the minor ways in which isn't, further emphasizing her inability to view the Man as a human being instead of a set of stereotypes, as the latter often works positively for her various iconic statuses.
@@ -39,6 +51,12 @@ All the narcissistic characters should have surreal breaks where what would be t
 TODO: With Art this is King Auerbach, with Dr. Burjest this is her seeing Anna Torv as her own hallucinatory reflection, but wiht Raquel? Maybe something with a childhood vision of her as a comic book character who would never be so evil? Kind of like a _Unbreakable_ thing maybe? idk
 
 In response to the above, how about a "Rouge" character, similar to the Xmen character Rogue? Rogue, or "Rouge", cannot physically touch another human without killing them. A young Raquel didn't know why but felt a reflection in this character as to explain why she felt so awful pretending to be straight in her teen years, lying about liking boys around her girl friends. Idk, maybe. I just like the idea of Raquel's conscious being a southern lady that says "Shug" a lot, and how Raquel denies a compassionate inner voice in favor of justifying her negative narcisstic qualities. Rouge should probably only come out during Raquel's depressive moments, having no voice when Raquel is manic. Maybe Raquel, who is an avid comic reader to this day, can hallucinate by seeing Rouge talk to her directly in a comic book when she's trying to escape depression?
+
+#### Furthering the Rouge Idea
+
+TODO: expand on the below at a later time
+- Rouge and Raquel can have a "falling out" of sorts
+- This can lead to a point of no return, to indicate a breaking point of sorts, where even Raquel's inner compassionate voice won't put up with Raquel any longer
 
 ### Raquel's attachment to her youth
 
