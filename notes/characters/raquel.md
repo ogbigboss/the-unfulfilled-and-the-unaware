@@ -80,6 +80,12 @@ Raquel avoids this reality by over intellectualizing her pursuit of "othering" T
 
 Narcissists rely on distractions, and Raquel regularly changes the subject in growingly awkward ways as a way to get others to look the other way at her faults.[^4]
 
+### Raquel's recurring dream -> nightmare cycle
+
+In the beginning of the novel, Raquel often dreams of being a showrunner and working with male colleagues who adore her for her work about The Man, without knowing she framed him. This peaks as a good dream during 2023, with Raquel's NPD relishing the idea of knowing she framed The Man with a false accusation, and male actors / writers / directors loved to work with Raquel to seem on the side of feminism, and Raquel derives pleasure in the dream knowing it was a lie.
+
+This later slowly turns to a nightmare starting May 19 2024, as The Man obtains his innocence from the accusation, and continues in increasing ways where her dreams become about how men nor women wish to work with her due to her aligning with a false accusation, with an arc that shows her fear of others finding out just how much she was behind the false accusation.
+
 <br />
 <br />
 <br />
