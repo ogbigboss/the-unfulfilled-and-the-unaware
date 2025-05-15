@@ -10,7 +10,7 @@ However, The Man is suspicious instead of ignorant to their presence, and as he 
 
 The Man knows he's not committing any crimes and hopes this ends in the FBI confronting him on the issue, which he could use to qualify the situation.
 
-(Later, for years, the footage of The Man acting this way is used by `the Inner Party`, Raquel, and The Flying Monkeys to convince others that he's actually insane, when they are well aware he was acting, something he expresses continuously through 2022 to try and get them to leave him alone.)
+Later, for years, the footage of The Man acting this way is used by `the Inner Party`, Raquel, and The Flying Monkeys to convince others that he's actually insane, when they are well aware he was acting, something he expresses continuously through 2022 to try and get them to leave him alone.
 
 Raquel and `the Inner Party`, not wanting to back down due to their inadequacy issues and jealousy over _The Mimus_, request the FBI's NCAVC do a profile on The Man "just like in those TV shows _Criminal Minds_ or _Thought Patrol_", and take some snippets of the DSM to suggest the Man must be diagnosed.
 
@@ -32,6 +32,8 @@ These interviews, along with a lack of a crime scene and an inability to intervi
 
 Dr. Redactada, attempting to get `the Inner Party` to leave The Man alone, makes it clear that to qualify them fully for schizophrenia, they need to keep this behavior up for 6 months. As she writes the memo in June, the six month period would end at the start of December. This motivates `the Inner Party` to make the false accusation before that, to avoid qualifying for Dr. Redactada's diagnosis by framing The Man into appearing as the actually diagnosable one.
 
+### A possible denoument to the Memo
 
+`The Inner Party`, much like The Man, disqualifies the idea of them being schizophrenic or delusional by admitting they were lying: they knew the Man wasn't a spy, thief, hacker, or even a threat due to mental illness, and they were just hoping to use their societal status to bend the truth so they can get on Webflicks. This is only possible by admitting to having NPD, driven by inadequacy issues that stem from losing elections to a celebrity, while also having jealousy issues due to a certain unnamed congresswoman's ulta popular weblicks documentary. These inadequacy issues are the reason `the Inner Party` lied to the extent of seemingly qualifying for schizophrenia or delusional disorder.
 
 [^1]: https://spyscape.com/podcast/the-sociopathic-spy
