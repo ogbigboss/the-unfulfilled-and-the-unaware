@@ -30,10 +30,20 @@ These interviews, along with a lack of a crime scene and an inability to intervi
 
 ### The Memo and the False Accusation
 
-Dr. Redactada, attempting to get `the Inner Party` to leave The Man alone, makes it clear that to qualify them fully for schizophrenia, they need to keep this behavior up for 6 months. As she writes the memo in June, the six month period would end at the start of December. This motivates `the Inner Party` to make the false accusation before that, to avoid qualifying for Dr. Redactada's diagnosis by framing The Man into appearing as the actually diagnosable one.
+Dr. Redactada, attempting to get `the Inner Party` to leave The Man alone, makes it clear that to qualify them fully for schizophrenia, they need to keep this behavior up for 6 months. As she writes the memo in June, the six month period would end at the start of December. This motivates `the Inner Party` to make the false accusation before that, to avoid qualifying for Dr. Redactada's diagnosis by framing The Man into appearing as the actually diagnosable one, and of course later backfires on them as it elongates their behaviors past the 6 month period.
 
-### A possible denoument to the Memo
+### A possible denouement to the Memo
 
 `The Inner Party`, much like The Man, disqualifies the idea of them being schizophrenic or delusional by admitting they were lying: they knew the Man wasn't a spy, thief, hacker, or even a threat due to mental illness, and they were just hoping to use their societal status to bend the truth so they can get on Webflicks. This is only possible by admitting to having NPD, driven by inadequacy issues that stem from losing elections to a celebrity, while also having jealousy issues due to a certain unnamed congresswoman's ulta popular weblicks documentary. These inadequacy issues are the reason `the Inner Party` lied to the extent of seemingly qualifying for schizophrenia or delusional disorder.
+
+### The Memo's appendix quotes throughout the novel
+
+Many chapters should start with a "flashback" esque quote to Dr. Redactada's memo's appendix section, where she lists direct quotes from the Appointed officials, Senators and Congresspeople to back various diagnostic criteria for NPD, Delusional Disorder, and Schizophrenia. These could be in a "preview" to future post memo events, meant to qualify taht the diagnosis existed at the time of the memo and only got worse as the events of the novel persist. The following chapter should lean into the point expressed, or the previous chapter, either one.
+
+### The Prelude to Criminal Medical Malpractice
+
+Many of those interviewed and diagnosed by Dr. Redactada are in their 30s to early 50s, and are fearing a disclosure of the classified memo in 25 years, as is standard procedure. They push Art into organizing a show based on Criminal Medical Malpractice, and through their NPD suggest that he bypass checking in with Excursion Group's legal team, saying that as lawmakers they are more qualified than his own personal lawyers, their NPD and selective empathy also letting them "forget" about conflicts of interest. After claims of Criminal Medical Malpractice are brought up by the Choir in late 2022, this sets up `the Inner Party` to orchestrate the False Accusation.
+
+The desired goal of the medical malpractice is to falsely diagnose The Man, such that in 25 years (or whenever the memo is declassified), there can be a counter argument for media purposes, and one that defames not just the Man but Dr. Redactada from seeming qualified.
 
 [^1]: https://spyscape.com/podcast/the-sociopathic-spy

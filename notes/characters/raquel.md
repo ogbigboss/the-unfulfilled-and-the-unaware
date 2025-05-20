@@ -88,6 +88,10 @@ This later slowly turns to a nightmare starting May 19 2024, as The Man obtains 
 
 Rouge would perhaps work best as a dream, particularly when Raquel is depressed. When she is manic, her dreams turn to the above. Eventually, Rouge and Raquel can have a "falling out", and her depressed dreams become invaded by Polish and Norwegian soldiers, asking if their lives were worth years of Raquel's lies. Raquel can struggle by trying to blame The Man's lies, though she knows his lie wouldn't have had any consequence had it not been for hers and `the Inner Party`'s, a symbol of Narcissistic Personality Disorder getting in the way of individual responsibility and leading to knee-jerk finger pointing of others, no matter how logically dissonant it may be.
 
+### The Challenge in Writing Raquel as forgivable
+
+She starts of the book framing the man in a way that is only justified by her onset of NPD, so she's not exactly a good person at the start, and probably doesn't turn things around at the end. She shoudl express some doubts of her morality in the beginning and justify it as a way to hint at her NPD allowing explotitative behavior, but for the reader to find her forgivable, it may take "flashback" exposition in Act II or III to her childhood difficulties and adapting perfectionism as a way to deal with inadequacy issues onset by being a gay woman in a straight world.
+
 <br />
 <br />
 <br />
