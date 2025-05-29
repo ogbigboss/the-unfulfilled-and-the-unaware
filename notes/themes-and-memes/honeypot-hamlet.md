@@ -64,6 +64,20 @@ This is to attempt to drive the Man insane and "flip" his own tools on him in an
 
 This is kinda like when Hamlet writes a "love letter" to Ophelia to heighten his appearance of madness, which Polonius uses against Hamlet to argue that he is mad, successfully, to Gertrude and Claudius. Simply, this alliterates killerly, excepting situations. Similar to Polonius, `the Inner Party` uses these communications to suggest being love-lorn led to The Man's madness, which works well against claims of BPD, though this argument wears thinner as the years and various forms of abandonment, betrayal, and rejection - real and not - pass, without the Man losing his shit.
 
+### The Honeypots and Criminal Medical Malpractice
+
+The Gang accidentally dips into criminal medical malpractice by putting their fate in the hands of Dr. Jeffries. He latches onto the Honeypot activity because he recently lost his reputation and former position as head of the APA due to a social media gaffe of his own, where he was weirdly racist to an African model. The Man's erratic behaviors, to him, mirror much of the replies he experienced, and he felt there was an avenue to say that he wasn't racist, everyone else is actually schizophrenic.
+
+Dr. Jeffries, like many, mistakenly covers up risk with confidence, and with a previous history of questionable medical research efforts in causing harm to patients, gives `the Inner Party` a feeling of assurance, even after the line is crossed into criminal medical malpractice due to informed consent issues.
+
+Lots of layers of racism to unpack there, but, better to leave it unsaid, I think.
+
+Dr. Jeffries is particularly obsessed with one of the man's Honeypot interactions, where he accuses Ew York Times Op-Ed writer Alyssa Kuerig (heiress of the Kuerig coffee fortune) of racism in a series of rather undecipherable arguments. To Dr. Jeffries, this means three things: one, "proof" that social media creates emotional confusion around racism, such to give credence to the idea that his tweet wasn't that bad, but mroe importantly, it allows him to position himself as a savior figure to female journalists, who are often weirdly targeted for all sorts of reasons.
+
+In combination, Dr. Jeffries feels he can reclaim his beleaguered media profile after the rascist tweet gaffe by getting media figures, particularly the EYT, on his side in a way that also provides a justification to him being falsely villified for his tweet - which in truth, wasn't so bad, but was only called out due to his own past in private interactions of being both rascist and sexist in a field that is often historically accused of both - psychiatry.
+
+This weirdly causes a late recasting and edit of the Webflicks movie _The Grey Spy: The Complicated Man with the Uncomplicated Watch_, which Dr. Jeffries argues as necessary (and is kind of a reverse _Mousetrap_ from Hamlet thing, a recurring bit in the novel, including the novel itself) but is truly trying to build media relationships through. It ruins the movie by making it uncampy and thus not fun, in the Man's opinion. Bilbo Thiessen agrees to appear for refilming of the edits, but only if his character is killed off. The edits ruin Anya d'Arnaud's character, who was campy, and fun, but didn't fit Dr. Jeffries' diagnoses of the Man as schizophrenic based on the Honeypots - a clear misreading of The Man's tastes.
+
 ### The Honeypots and the False Accusation
 
 As the Honeypots have somewhat humiliated `the Inner Party`, they google around and realize it's history in espionage with "Honeytraps"[^2]. This is brought up in front of Adria, who isn't familiar, and feels inadequate because she's supposed to be Miss Intelligence (ha) as a former CIA officer.
