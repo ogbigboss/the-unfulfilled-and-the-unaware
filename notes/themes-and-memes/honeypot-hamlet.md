@@ -16,6 +16,40 @@ He tries to write such that once discovered via spying, it would be hard _not_ t
 
 The Man's Honeypots are tripped over in ways made obvious to him at the start of this fiasco - February 2022 - so they served their purpose; he knew he was being digitally spied upon.
 
+### Technical Analysis of the Social Media Honeypots
+
+The goal of the Honeypots is to provide a presumptive indication that someone - likely a government intelligence or investigative agency - has worked with private entities (in this case social media companies) to find all accounts that could link back to a single email address. This only works if the social media company does NOT display the email address associated to an account publicly.
+
+Private companies would be less likely to work with other private entities in this way, but would be likely to work with government entities, particularly under the scope of national security concerns.
+
+#### The Setup (the pot)
+
+1. *GMail's Plus Addressing Trick* [^3]
+
+theman@gmail.com is The Man's email address. He knows that adding a plus sign and extra text before the @, e.g. "theman+trick@gmail.com", if used as a recipient, will be forwarded to theman@gmail.com. This is useful in a number of contexts, one of which allows for multiple accounts on social media services to be controlled via one single email address.
+
+2. Creating multiple accounts on XTer, a Social Media site
+
+XTer is a popular social media website. The Man creates multiple accounts using the GMail plus addressing trick. The accounts contain no identifying information on the Man other than their email address, which is not publicly listed though exists privately in XTer's database.
+
+#### The Content (the honey)
+
+1. The Man creates provocative content using these accounts such to generate false profiles of himself, often inserting keywords or content that would leave a lasting remark and hopefully used as a "trigger" of sorts down the line.
+
+#### The Tipping (of the honeypot)
+
+1. If someone or something in the Man's life seems to directly or indirectly hint at the provocative content, it *may* be an indicator that someone has "tipped" the honeypot, indicating that an entity (likely a government agency) has requested a private company (in this case social media company XTer) to do a database lookup of all accounts that could have been created by The Man's known email addresses, including accounts made with the aforementioned "plus addressing" trick. 
+
+2. In the case of emails, this may indicate the same, but could also in tandem indicate the recipient was given some sort of "hint" to look through their messages, with `the Inner Party` knowing they could use that manipulation against the Man.
+
+#### A Cautionary Statement (not the DSM's)
+
+It's important to note that these honeypots are a presumptive, not definitive, indicator of being spied upon.
+
+### The Sharing of Data Obtained in the Name of an Unproven National Security Issue
+
+As the data was obtained in February / March of 2022 - pre-empting an ownership transition - there are legitimate questions as to whether `the Inner Party` was in the right to share this data with private entertainment companies for the purpose of "reality" TV, and what this says of their ability to handle issues of national security and intelligence when and if it crosses the line into Hollywood gossip, considering it is difficult to say an investigation would have occurred without _The Mimus_ and _Razzlekhan_ being contemporary to the investigation.
+
 ### The Man's Honeypots turned against him
 
 The Man made these feeling that those that would try and fail to profile him using the Honeypots in real life would give up quickly after failed attempts. At first inference, that seems to be the case, and the only evidence of them being "tipped over" is in February and March of 2022.
@@ -46,3 +80,4 @@ He waits after he proves the accusation false as well as after like, nearly 3 fu
 
 [^1]: https://www.crowdstrike.com/en-us/cybersecurity-101/exposure-management/honeypots/
 [^2]: https://en.wikipedia.org/wiki/Honey_trapping#:~:text=Honey%20trapping%20has%20a%20long,co%2Doperate%20with%20them.%22
+[^3]: https://www.streak.com/post/gmail-plus-addressing-trick#:~:text=All%20you%20have%20to%20do,variation%20in%20your%20main%20inbox.
