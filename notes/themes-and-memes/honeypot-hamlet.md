@@ -88,6 +88,12 @@ To compensate, she then comes up with the idea of a false accusation such that t
 
 `The Inner Party`'s NPD as exemplified by exploitative behavior when their inadequacy is triggered prevents them from realizing they're going way too far as an acting class of leadership in abandoning the base principles behind their political platform, even considering their motivation to reverse the Redactada memo.
 
+### `The Inner Party` Manipulates the Media
+
+The Man, in April of 2022, emailed the Ew York Times and the DC Poster of the idea that corporate audio surveillance led to government overreach, so journalist types were aware of the situation, in the hopes that this would get the government to leave him alone, as he was unaware of _The Mimus_ being part of their motivation. To counter this starting in June, `the Inner Party` manufactured the Man as an "unworthy victim"[^6] by using the honeypot accounts as a way to manipulate journalists into seeing the Man as a danger, though `the Inner Party` was aware they were honeypots.
+
+Media figures post on social media and deal with mental illness and even direct death threats regularly on social media sites. This was used to argue to the media that bypassing informed consent was necessary in a way that would trigger confirmation bias, such to avoid media figures from calling out the Inner Party’s criminal behaviors they were witnessing, as well as set up a manipulative, non-legal argument towards complicity (btw being misled / lied to means you weren’t complicit, legally, as long as you were misled or lied to, and you probably were. Wait, who's you?).
+
 ### The Man attempts to explain the Honeypots
 
 The Man does explain these in a video series he makes in early 2023, but is ignored or seen as rationalizing after the fact, particularly against the false accusation.
@@ -99,3 +105,4 @@ He waits after he proves the accusation false as well as after like, nearly 3 fu
 [^3]: https://www.streak.com/post/gmail-plus-addressing-trick#:~:text=All%20you%20have%20to%20do,variation%20in%20your%20main%20inbox.
 [^4]: https://www.nbcnews.com/news/us-news/columbia-university-suspends-psychiatry-head-freak-nature-tweet-dark-s-rcna17502 
 [^5]: https://www.cuimc.columbia.edu/news/announcement-regarding-michael-shelanski-md-phd
+[^6]: https://www.supersummary.com/manufacturing-consent/chapters-2-4/
