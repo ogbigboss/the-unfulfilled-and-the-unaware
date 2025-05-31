@@ -39,3 +39,13 @@ While secretly funding the NTK show, Art is made fun of on it constantly, as is 
 
 This is also used to continue to make some celebrities feel "guilty" for causing the false accusation via their bullying (alongside the Man) of both Art and `the Inner Party` in 2022, when in truth, the situation's roots stem from Dr. Redactada's Memo. Act 4 sees `the Inner Party` and the Flying Monkeys spending their time trying to hide this manipulation.
 
+### The NTK Show, Privacy, and the Right to Abortion
+
+`The Inner Party` has failed to keep up their brand of "legal supremacy" - their legal discipline attempts backfired as they were being touted on the NTK show. The Man has brought up that his invasion of privacy, all for medical reasons, should be a great starting ground for a lawsuit that could influence a partial to full reversal of _Dobbs v. Jackson_.
+
+While The Man has been bringing this up since late 2023 to early 2024, `the Inner Party` at first used the NTK show to argue that he was only doing that to cover up `the lie`.
+
+After the Man secures his innocence from `the lie`, the NTK show focused on legal discipiline and medical misdiagnoses as debates, and features many prominent legal professionals that occasionally dismiss arguments for a lawsuit for privacy as innefective, though they are vague as to the reasons.
+
+After the legal professionals fail to succeed in legal discipline, a growing number of NTK viewers wonder if the privacy invasion they are witnessing could be used to secure American's privacy rights at least, but possibly abortion rights as well.
+
