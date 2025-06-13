@@ -1,6 +1,6 @@
 ## Kristy Vulfpeck
 
-Kristy Vulfpeck is the GC for the company the Man starts working for in early 2022 at the start of the fiasco, and is the "who" in the "whodunit" of the book. This allows the book to be vague throughout, with a final tail being pinned on the Vulf. Vulfpeck means "little kiss from a wolf" in German. Separately, "Little Kiss From a Wolf" is a popular funk band in the novel.
+Kristy Vulfpeck is the GC for the company the Man starts working for in early 2022 at the start of the fiasco, and is the "who" in the "whodunit" of the book. This allows the book to be vague throughout, with a final tale being pinned on the Vulf. Vulfpeck means "little kiss from a wolf" in German. Separately, "Little Kiss From a Wolf" is a popular funk band in the novel.
 
 ### Kristy's Sexual Surveillance Obsession With The Man
 
