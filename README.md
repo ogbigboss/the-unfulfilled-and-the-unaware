@@ -1,8 +1,12 @@
-# art's Revenge OR The Unfulfilled, the Unaware, and I, Confidence
+# art's revenge
 
 #### A Novel by Annie Malman
 
 In 2022, an FBI agent working within a behavioral analysis unit produces a classified memo stating that several members of `the Inner Party`, both elected officials and their professional and personal relations, qualified as diagnosable for narcissitic personality disorder with a co-morbidity of violent paranoid schizofrenia with delusional disorder. This was due to their spending over three months persuing a citizen, The Man, via a combination of utilizing state forces to intimidate The Man as well as a "true crime" Reality TV show one of their husbands was producing, despite there being no actual crimes, and the connections that were used to justify the violent actions qualified as both apophenia as well as perceiving slights which did not exist - two indicators of schizophrenia. When the contents of the memo are unwittingly forwarded to the media by the head of studio making the reality TV show - Hollywood mogul and husband to a famous politician, Art Auerbach - `the Inner Party` alongside it's unaffiliated media organization PNN, the Pequod News Network, must get The Man falsely diagnosed as the "real" paranoid schizophrenic in order to discredit the FBI behavioral analyst whom diagnosed them using classified information and save their reputations before `the Other Party` can take advantage of the truth. It would be easier if Art wasn't plagued by the ghost of his dead father, King Auerbach.
+
+#### Cover Art
+
+Under the title _art's revenge_, a picture of another book at an angle, with the cover reading _The Unfulfilled, The Unaware, and I, Confidence_ by The Man - a book within a book!
 
 ## Intro: Dream Deprivation
 
@@ -16,7 +20,7 @@ In 2022, an FBI agent working within a behavioral analysis unit produces a class
 
 Adria had always known Ryleigh was the weakest - she was the prettiest, prettier than Adria at least. That's why she made a plan to keep Ryleigh from talking from the very beginning.
 
-"Ry - do you want to lose your kids like Rita? Remember that evening in Vegas? All I have to do is tell your wi-"
+"Ry - do you want to lose your kids like the Man's sibling? Remember that evening in Vegas? All I have to do is tell your wi-"
 
 "No, no, nevermind. You're right. Nevermind!"
 
