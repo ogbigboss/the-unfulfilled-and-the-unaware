@@ -24,9 +24,9 @@
 
 > "You are not responsible for anyone's distorted perception of you"
 >
-> ― Maya Angelou
+> ― ~~Maya Angelou~~ Unknown
 
-> "Although madness in men is not the same as that in women: men use it against others; women turn it in on themselves."
+> "She feels a surge of discomfort. Her every movement is being scrutinized and analysed, her every flaw, as though it is essential to find some minor fault, some defect to justify her incarceration."
 >
 > ― Victoria Mas, _The Mad Women's Ball_ 
 
